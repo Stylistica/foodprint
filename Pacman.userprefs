@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/spawnFood.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PacmanMove.cs" Line="31" Column="3" />
+      <File FileName="Assets/Scripts/Pacdot.cs" Line="9" Column="3" />
+      <File FileName="Assets/Scripts/GhostMove.cs" Line="16" Column="29" />
+      <File FileName="Assets/Scripts/spawnFood.cs" Line="19" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sneha/Code/Pacman/Assets/Scripts/spawnFood.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
